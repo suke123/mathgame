@@ -117,7 +117,7 @@
 				n1 = 0;
 			System.out.println(n1);
 
-			max += n1;  //生成された数値をmaxに足す
+			max += n1;  //生成された数値をmaxに足す。
 			return max;  //maxの値を返す。
 		}
 
